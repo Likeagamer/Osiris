@@ -1,0 +1,103 @@
+/* Estilos generales */
+body {
+    background-color: #ff84f5;  /* Color de fondo */
+    font-family: Arial, sans-serif;  /* Fuente del texto */
+    color: #333;  /* Color del texto */
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #c74bbd;  /* Color de fondo */
+    margin: 0;
+    padding: 0;
+}
+
+/* Estilos para títulos */
+h1 {
+    font-family: 'Sigmar', cursive;
+    font-size: 52px;
+    text-align: center;
+    color: #095f1e; /* Color llamativo */
+}
+
+h2 {
+    font-family: 'Sigmar', cursive;
+    font-size: 44px;
+    text-align: center;
+    color: #fdd654; /* Color llamativo */
+}
+
+h3 {
+    font-family: 'Sigmar', cursive;
+    font-size: 44px;
+    padding-left: 100px;
+    color: #fdd654; /* Color llamativo */
+}
+
+h4 {
+    font-family: 'Sigmar', cursive;
+    font-size: 44px;
+    padding-left: 100px;
+    color: #54e9fd; /* Color llamativo */
+}
+
+h5 {
+    font-family: 'Sigmar', cursive;
+    font-size: 44px;
+    padding-left: 100px;
+    color: #fd8454; /* Color llamativo */
+}
+
+/* Estilos para párrafos */
+p {
+    font-family: 'Dangrek', cursive;
+    font-size: 20px; /* Tamaño del texto */
+    color: #444; /* Color del texto */
+    line-height: 1.6; /* Espaciado entre líneas */
+    text-align: justify; /* Justificar el texto */
+}
+
+.Fresa {
+    color: #fc5454;
+    font-weight: bold;
+    padding-left: 100px;
+}
+
+.Mora {
+    color: #5c6ae7;
+    font-weight: bold;
+    padding-left: 100px;
+}
+
+.Mineral {
+    color: #5961ac;
+    font-weight: bold;
+    padding-left: 100px;
+}
+
+.Sprite {
+    color: #69ec5d;
+    font-weight: bold;
+    padding-left: 100px;
+}
+
+.Bolas {
+    color: #3b1946;
+    font-weight: bold;
+    padding-left: 100px;
+}
+
+.Gomitas {
+    color: #e92929;
+    font-weight: bold;
+    padding-left: 100px;
+}
+
+/* Estilos para imágenes */
+img {
+    max-width: 100%;  /* La imagen no será más grande que su contenedor */
+    height: auto;  /* Mantiene la proporción */
+    display: block;
+    margin: 20px auto;
+}
